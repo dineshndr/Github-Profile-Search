@@ -42,15 +42,3 @@ npm run dev
 
 # 4. Open in browser
 Visit http://localhost:5173
-📁 Project Structure
-bash
-Copy
-Edit
-Github-Profile-Search/
-├── index.html
-├── package.json
-├── vite.config.js
-├── MaterialUI/         # Components styled with MUI
-│   └── ...             
-├── src/                # Main application source
-│   └── ...
